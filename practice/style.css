@@ -1,0 +1,40 @@
+.about{
+    background-color: black;
+}
+
+.about h2 {
+    color: pink;
+}
+
+h2{
+    color: cyan;
+}
+
+body{
+    background-color: black;
+}
+
+span{
+    color: cyan;
+}
+
+.image-container{
+    text-align: center;
+}
+
+a{
+    color: cyan;
+}
+
+p{
+    color: cyan;
+}
+
+ul{
+    color: cyan;
+}
+
+
+.image-container img{
+    text-align: center;
+}
